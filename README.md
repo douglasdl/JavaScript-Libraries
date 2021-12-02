@@ -7,7 +7,10 @@
 - [Bootstrap](https://getbootstrap.com/)
 - [React.js](https://reactjs.org/)
 - [Vue.js](https://vuejs.org/)
+- [Node.js](https://nodejs.org/en/) Runtime built on Chrome's V8 JavaScript engine.
 - [Express.js](https://expressjs.com/)
+- [Next.js](https://nextjs.org/)
+- [Ionic](https://ionicframework.com/)
 - [TensorFlow.js](https://www.tensorflow.org/js)
 - [Ethers](https://docs.ethers.io/v5/)
 - [Web3.js](https://web3js.readthedocs.io/en/v1.5.2/)
