@@ -19,3 +19,6 @@
 - [D3.js](https://d3js.org/)manipulating documents based on data.
 - [TaffyDB](https://taffydb.com/) Brings database features into your JavaScript applications.
 - [Anime.js](https://animejs.com/) Lightweight JavaScript animation library with a simple, yet powerful API.
+- [Construct-3](https://www.construct.net/en/make-games/manuals/construct-3/getting-started/get-construct-3)
+- [Kaboom](https://kaboomjs.com/)
+- [Phaser3](https://phaser.io/phaser3)
