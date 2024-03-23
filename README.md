@@ -72,6 +72,8 @@
 
 ## Charts
 - [Recharts](https://recharts.org/en-US/)
+- [React Google Charts](https://www.react-google-charts.com/)
+- [React Financial Charts](https://github.com/react-financial/react-financial-charts)
 
 ## Others
 - [p5.js](https://p5js.org/)
