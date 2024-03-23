@@ -70,6 +70,9 @@
 - [Rebass](https://github.com/rebassjs/rebass)
 - [Carbon Design System React](https://react.carbondesignsystem.com/)
 
+## Charts
+- [Recharts](https://recharts.org/en-US/)
+
 ## Others
 - [p5.js](https://p5js.org/)
 - [Three.js](https://threejs.org/)
